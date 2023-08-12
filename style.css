@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-img{
+    width: 100%;
+    height: 92vh;
+    background-image: url(images/hero-bg.png);
+    background-size: cover;
+}
+.hero-title{
+    width: 37rem;
+    height: 5vh;
+    text-align: center;
+    padding-top: 5rem ;
+}
+.btn-container1{
+    width: 10rem;
+    height: 5rem;
+    margin-top: 6rem !important;   
+}
+.btn-radius{
+    border-radius: 20px;
+}
+.img-center{
+    width: 30rem;
+    height: 20rem;
+    margin-left: 32rem;
+}
+
+
+
+/* about us */
+.about-title-width{
+    width: 25rem;
+    height: 5rem;
+}
+.btn-about{
+    margin-bottom: 14rem;
+}
+.bg-color-about{
+    width: 50%;
+    height: 20rem;
+    background-color: rgb(23, 23, 246);
+}
+
+.mic-item-para{
+    color: white;
+    margin-left: 3rem;
+}
+
+
+.services{
+    margin-top: 4rem ;
+}
+
+.services-align{
+    text-align: center;
+}
+.services-para{
+    width: 35rem;
+    height: 4rem;
+}
