@@ -8,6 +8,9 @@
     background-image: url(images/hero-bg.png);
     background-size: cover;
 }
+.bg-color{
+    background-color: rgb(245, 244, 244);
+}
 .hero-title{
     width: 37rem;
     height: 5vh;
@@ -48,6 +51,9 @@
     color: white;
     margin-left: 3rem;
 }
+.margin-left-about{
+    padding-left: 5rem;
+}
 
 
 .services{
@@ -60,4 +66,27 @@
 .services-para{
     width: 35rem;
     height: 4rem;
+}
+
+.bg-img-testimonial{
+    width: 100%;
+    height: 50vh;
+    background-image: url(images/testimonial_bg.jpg);
+    background-size: cover;
+}
+.testimonial-content{
+    width: 50%;
+    height: 50vh;
+    margin: auto;
+}
+.testimonial-name-color{
+    color: blue;
+    font-size: 1.5rem;
+}
+.testimonial-para{
+    width: 35vw;
+    height: auto;
+}
+.touch-color{
+    color:blue;
 }
